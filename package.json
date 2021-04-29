@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp_bot",
+  "version": "1.0.0",
+  "description": "Projeto teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erica S. (FullStack)",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}
